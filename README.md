@@ -1,7 +1,9 @@
 # hello-world
-My first repository
+This is my first repository. Real projects to come... 
 
-========
+Here's a sonnet from Shakespeare while waiting:
+
+=========
 Sonnet 29
 =========
 When in disgrace with Fortune and men's eyes,
